@@ -1,1 +1,1 @@
-[Visit this from netlify]{:target="_blank"}(https://sam-formik.netlify.app/)
+[Visit this from netlify](https://sam-formik.netlify.app/)
