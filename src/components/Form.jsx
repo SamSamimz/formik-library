@@ -29,9 +29,9 @@ const Form = () =>  {
 
   return(
     <>
-    <div className="col-8 mx-auto bg-light p-3">
+    <div className="col-12 col-sm-8 mx-auto bg-light p-3">
     <h1 className="text-center text-white" style={{textShadow:"1px 1px 3px #444"}}>Formik & yup</h1>
-      <form className="col-8 mx-auto" onSubmit={formik.handleSubmit}>
+      <form className="col-10 col-sm-8 mx-auto" onSubmit={formik.handleSubmit}>
         <div className="mb-3">
           <label className="form-label" htmlFor="name">Name : </label>
           <input type="text"
