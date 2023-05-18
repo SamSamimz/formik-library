@@ -1,1 +1,1 @@
-[Visit this from netlify](https://sam-formik.netlify.app/)
+[👉👉Visit it from netlify now](https://sam-formik.netlify.app/)
